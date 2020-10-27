@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="132a6f5b-fd63-4284-8f90-44ab72ce689b" name="Default Changelist" comment="" />
+    <list default="true" id="132a6f5b-fd63-4284-8f90-44ab72ce689b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_bootstrap-theming.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_bootstrap-theming.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_extends.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_extends.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_skin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_skin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jEHthDPOID0JIOlLNI4UXUFM1N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,10 +34,38 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.watch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603362546657</updated>
-      <workItem from="1603362547818" duration="2001000" />
+      <workItem from="1603362547818" duration="75697000" />
+      <workItem from="1603815115271" duration="15000" />
     </task>
     <servers />
   </component>
@@ -37,21 +84,37 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1603362626847">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603814198600">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603362626847" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1603362626846">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1603814198600" />
+    <state width="1259" height="492" key="GridCell.Tab.0.bottom" timestamp="1603814404319">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603362626846" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1603362626845">
+    <state width="1259" height="492" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603814404319" />
+    <state width="1259" height="492" key="GridCell.Tab.0.center" timestamp="1603814404318">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603362626845" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1603362626846">
+    <state width="1259" height="492" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603814404318" />
+    <state width="1259" height="492" key="GridCell.Tab.0.left" timestamp="1603814404317">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603362626846" />
+    <state width="1259" height="492" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603814404317" />
+    <state width="1259" height="492" key="GridCell.Tab.0.right" timestamp="1603814404318">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="492" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603814404318" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1603393478124">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1603393478124" />
+    <state x="341" y="0" width="598" height="548" key="find.popup" timestamp="1603714135996">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="0" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1603714135996" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1603798252234">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1603798252234" />
   </component>
 </project>
